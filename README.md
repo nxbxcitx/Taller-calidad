@@ -1,4 +1,4 @@
-# Taller: calidad en un mini-pipeline ETL
+# Taller
 
 ## Pasos para ejecutarlo
 ```bash
