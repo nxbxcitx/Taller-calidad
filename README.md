@@ -17,6 +17,4 @@ docker run --rm --network host -e SONAR_HOST_URL="http://localhost:9000" \
 ```
 
 ## Paso 5: ANTES y DESPUÉS
-1. Copia `antes/reportes_con_defectos.py` sobre `etl/reportes.py` (guarda el original corregido).
-2. Corre `pytest --cov=etl --cov-report=xml` y el scanner. **Toma capturas (ANTES).**
-3. Restaura la versión corregida de `etl/reportes.py`, vuelve a correr y **toma capturas (DESPUÉS).**
+se encuentra un documento pdf que explica todo lo que paso con las pruebas 
